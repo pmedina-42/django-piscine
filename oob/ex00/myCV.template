@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{title}</title>
+
+</head>
+<body>
+    <h1>{firstname} {lastname}</h1>
+    <p><strong>Profession: </strong>{profession}</p>
+    <section>
+        <h2>About me</h2>
+        <p>Hello, my name is {firstname} and I'm a {profession}. This is my CV rendered from a template file</p>
+    </section>
+</body>
+</html>

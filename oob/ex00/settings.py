@@ -1,0 +1,5 @@
+firstname = 'Patricia'
+lastname = 'Medina'
+login = 'pmedina-'
+title = 'CV'
+profession = 'Software Developer'
