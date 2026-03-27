@@ -33,7 +33,7 @@ class Elem:
         Obviously.
         """
         self.tag = tag
-        self.attr = attr
+        self.attr = {} if attr is None else attr
         self.tag_type = tag_type
 
         self.content = []
